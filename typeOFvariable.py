@@ -8,3 +8,7 @@ print("\nPrinting all the things in different line.")
 print(name)
 print(age)
 print(CGPA)
+
+print(type(name))
+print(type(age))
+print(type(CGPA))
